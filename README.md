@@ -20,7 +20,5 @@ Classes
 
 ## Known Bugs and Possible Improvements
 * validate input
-* syntax errors in show methods
-* errors in event deletion
 * redundancy in adding contact to set of contacts
 * Add show events method for contacts
