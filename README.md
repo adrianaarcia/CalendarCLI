@@ -1,5 +1,5 @@
 # CalendarCLI
-A simple Calendar application with a command line interface. 
+A simple Calendar application with a command line interface. Last Updated: 10/28/2020 
 
 ## Overview
 This application allows you to 
